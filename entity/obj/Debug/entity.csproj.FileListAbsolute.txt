@@ -1,0 +1,6 @@
+C:\Users\Gülşen\Desktop\YazOkulu\entity\bin\Debug\entity.dll
+C:\Users\Gülşen\Desktop\YazOkulu\entity\bin\Debug\entity.pdb
+C:\Users\Gülşen\Desktop\YazOkulu\entity\obj\Debug\entity.csprojAssemblyReference.cache
+C:\Users\Gülşen\Desktop\YazOkulu\entity\obj\Debug\entity.csproj.CoreCompileInputs.cache
+C:\Users\Gülşen\Desktop\YazOkulu\entity\obj\Debug\entity.dll
+C:\Users\Gülşen\Desktop\YazOkulu\entity\obj\Debug\entity.pdb
